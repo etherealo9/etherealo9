@@ -29,53 +29,27 @@
 
 ## 🎯 `$ whoami`
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=BA+English+Literature+→+MCA+AI%2FML+→+CONTEXT+ENGINEERING" alt="Convergence" />
 
 ```typescript
-interface Developer {
-  identity: string;
-  role: string[];
-  location: string;
-  currentFocus: string[];
-  philosophy: string;
-}
-
-const etherealo9: Developer = {
+const etherealo9 = {
   identity: "Arghyadeep Das",
-  role: [
-    "Technical Product Manager", 
-    "Full-Stack Engineer", 
-    "XR Architect"
-  ],
+  role: ["Technical Product Manager", "Full-Stack Engineer", "XR Architect"],
   location: "Kolkata, India → Amazon (Global)",
-  currentFocus: [
+  focus: [
     "AI-Driven Financial Due Diligence",
-    "Privacy-First HealthTech",
+    "Privacy-First HealthTech", 
     "Enterprise Operational Excellence"
   ],
   philosophy: "Code is syntax. Product is why humans need it."
 };
 ```
 
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-### 🧠 **THE CONVERGENCE THESIS**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=400&height=120&lines=BA+English+Literature;↓;MCA+AI%2FML;%3D;CONTEXT+ENGINEERING" alt="Convergence" />
-
-**`Where linguistic precision`**  
-**`meets computational logic`**
+**`Where linguistic precision meets computational logic`**
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <!-- ANIMATED DIVIDER -->
 <div align="center">
@@ -381,7 +355,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 📊 **GITHUB STATS**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0&count_private=true&include_all_commits=true" />
 
 </div>
 
@@ -392,7 +366,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 🔥 **CONTRIBUTION STREAKS**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=etherealo9&theme=radical&hide_border=false&border=3B82F6&background=000000&stroke=3B82F6&ring=F97316&fire=3B82F6&currStreakLabel=F97316&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=etherealo9&theme=radical&hide_border=false&border=3B82F6&background=000000&stroke=3B82F6&ring=F97316&fire=3B82F6&currStreakLabel=F97316&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0&include_all_commits=true" />
 
 </div>
 
@@ -410,7 +384,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 💻 **TOP LANGUAGES**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=false&border_color=F97316&bg_color=000000&title_color=F97316&text_color=FFFFFF&border_radius=0" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=false&border_color=F97316&bg_color=000000&title_color=F97316&text_color=FFFFFF&border_radius=0&count_private=true" />
 
 </div>
 
@@ -421,48 +395,13 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 📈 **CONTRIBUTION GRAPH**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&custom_title=Activity&border_radius=0" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&custom_title=Activity&border_radius=0&include_all_commits=true" />
 
 </div>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<!-- CONTRIBUTION HEATMAP -->
-<img src="https://ghchart.rshah.org/3B82F6/etherealo9" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 **YEARLY CONTRIBUTIONS**
-
-<details>
-<summary><b>▶️ 2025 Contributions</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&from=2025-01-01&to=2025-12-31" />
-</details>
-
-<details>
-<summary><b>▶️ 2024 Contributions</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&from=2024-01-01&to=2024-12-31" />
-</details>
-
-<details>
-<summary><b>▶️ 2023 Contributions</b></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&from=2023-01-01&to=2023-12-31" />
-</details>
-
-</div>
 
 <br/>
 
