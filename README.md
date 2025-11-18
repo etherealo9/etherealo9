@@ -1,64 +1,17 @@
-<!-- NEO-BRUTAL HERO SECTION -->
-<div align="left" style="position: relative; padding: 60px 40px; background: linear-gradient(135deg, #000000 0%, #0a0a0a 25%, #000000 50%, #050510 75%, #000000 100%);">
-
-<!-- MAIN TITLE - ASYMMETRIC LAYOUT -->
-<div style="margin-bottom: 24px;">
-  <h1 style="font-size: 96px; font-weight: 900; line-height: 0.9; letter-spacing: -0.04em; margin: 0; background: linear-gradient(90deg, #3B82F6 0%, #FFFFFF 50%, #3B82F6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-transform: uppercase; font-family: 'Arial Black', sans-serif;">
-    ETHEREAL<span style="background: linear-gradient(90deg, #3B82F6 0%, #F97316 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">O9</span>
-  </h1>
+<!-- HERO SECTION WITH GRADIENTS & GLASSMORPHISM -->
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="ETHEREALO9 - Technical Product Manager & Full-Stack Engineer" />
 </div>
 
-<!-- ROLE CARDS - STACKED ASYMMETRIC -->
-<div style="display: flex; flex-direction: column; gap: 16px; margin-bottom: 32px; max-width: 800px;">
-  <div style="background: linear-gradient(135deg, #3B82F6 0%, #60A5FA 100%); color: #FFFFFF; padding: 16px 24px; box-shadow: 8px 8px 24px rgba(59, 130, 246, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); font-size: 24px; font-weight: 900; letter-spacing: -0.02em; width: fit-content; transform: rotate(-1deg);">
-    TECHNICAL PRODUCT MANAGER
-  </div>
-  <div style="background: linear-gradient(135deg, #F97316 0%, #FB923C 100%); color: #FFFFFF; padding: 16px 24px; box-shadow: 8px 8px 24px rgba(249, 115, 22, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); font-size: 24px; font-weight: 900; letter-spacing: -0.02em; width: fit-content; margin-left: 40px; transform: rotate(1deg);">
-    FULL-STACK ENGINEER
-  </div>
+<!-- SOCIAL LINKS & VIEW COUNTER -->
+<div align="center">
+  <img src="./assets/social-links.svg" width="100%" alt="Connect with me" />
 </div>
 
-<!-- TAGLINE WITH BRUTAL BOX -->
-<div style="margin-bottom: 40px; margin-left: 80px;">
-  <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%); backdrop-filter: blur(16px); color: #FFFFFF; padding: 20px 32px; box-shadow: 12px 12px 32px rgba(255, 215, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.3); font-size: 28px; font-weight: 900; letter-spacing: -0.02em; width: fit-content; text-transform: uppercase;">
-    Building AI-First Products
-  </div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
-
-<!-- SOCIAL LINKS - NEO-BRUTAL GRID -->
-<div style="display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 40px;">
-  <a href="https://linkedin.com/in/arghyadeep-das" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.8) 0%, rgba(20, 20, 30, 0.9) 100%); backdrop-filter: blur(12px); color: #FFFFFF; padding: 16px 32px; box-shadow: 6px 6px 24px rgba(59, 130, 246, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.2); font-size: 18px; font-weight: 900; letter-spacing: 0.05em; transition: transform 0.2s;">
-      LINKEDIN →
-    </div>
-  </a>
-  <a href="https://bmatch.in" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #3B82F6 0%, #60A5FA 100%); color: #FFFFFF; padding: 16px 32px; box-shadow: 6px 6px 24px rgba(59, 130, 246, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); font-size: 18px; font-weight: 900; letter-spacing: 0.05em; transition: transform 0.2s;">
-      BMATCH.IN →
-    </div>
-  </a>
-  <a href="mailto:arghyadeep@bmatch.in" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #F97316 0%, #FB923C 100%); color: #FFFFFF; padding: 16px 32px; box-shadow: 6px 6px 24px rgba(249, 115, 22, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); font-size: 18px; font-weight: 900; letter-spacing: 0.05em; transition: transform 0.2s;">
-      EMAIL →
-    </div>
-  </a>
-</div>
-
-<!-- PROFILE VIEWS - BRUTAL PILL -->
-<div style="display: inline-block;">
-  <div style="background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); color: #000000; padding: 12px 28px; box-shadow: 6px 6px 24px rgba(255, 215, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.3); backdrop-filter: blur(10px); font-size: 16px; font-weight: 900; letter-spacing: 0.05em;">
-    <img src="https://komarev.com/ghpvc/?username=etherealo9&color=FFD700&style=flat-square&label=VIEWS" alt="Profile Views" style="vertical-align: middle;" />
-  </div>
-</div>
-
-<!-- FLOATING ACCENT SQUARES - DECORATIVE -->
-<div style="position: absolute; top: 40px; right: 100px; width: 80px; height: 80px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.6) 0%, rgba(96, 165, 250, 0.4) 100%); backdrop-filter: blur(8px); border-radius: 16px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3); transform: rotate(15deg);"></div>
-<div style="position: absolute; bottom: 80px; right: 40px; width: 60px; height: 60px; background: linear-gradient(135deg, rgba(249, 115, 22, 0.6) 0%, rgba(251, 146, 60, 0.4) 100%); backdrop-filter: blur(8px); border-radius: 16px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.3); transform: rotate(-25deg);"></div>
-<div style="position: absolute; top: 200px; right: 240px; width: 40px; height: 40px; background: linear-gradient(135deg, rgba(255, 215, 0, 0.6) 0%, rgba(255, 165, 0, 0.4) 100%); backdrop-filter: blur(8px); border-radius: 12px; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.3); transform: rotate(45deg);"></div>
-
-</div>
-
----
 
 <!-- ANIMATED CONTRIBUTION SNAKE -->
 <div align="center" style="margin: 30px 0;">
@@ -69,16 +22,16 @@
 </picture>
 </div>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 🎯 `$ whoami`
 
 <table>
 <tr>
-<td width="60%" valign="top" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="60%" valign="top">
 
 ```typescript
 interface Developer {
@@ -107,7 +60,7 @@ const etherealo9: Developer = {
 ```
 
 </td>
-<td width="40%" valign="top" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="40%" valign="top">
 
 <div align="center">
 
@@ -124,9 +77,9 @@ const etherealo9: Developer = {
 </tr>
 </table>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 💻 `$ cat /expertise/stack.json`
@@ -135,7 +88,7 @@ const etherealo9: Developer = {
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 ### 🎯 **PRODUCT & ENGINEERING**
 
@@ -154,7 +107,7 @@ Product Management:
 ```
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 ### 🚀 **AI & SPATIAL COMPUTING**
 
@@ -198,9 +151,9 @@ Extended Reality:
 
 </div>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 🚀 `$ ls -la /projects`
@@ -215,7 +168,7 @@ Extended Reality:
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.2) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(20px); border-radius: 24px; padding: 28px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);">
+<td width="50%">
 
 <div align="center">
 
@@ -244,7 +197,7 @@ impact = "10x faster investor matching"
 </div>
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.2) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(20px); border-radius: 24px; padding: 28px; box-shadow: 0 12px 40px rgba(249, 115, 22, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);">
+<td width="50%">
 
 <div align="center">
 
@@ -278,7 +231,7 @@ const architecture = {
 </td>
 </tr>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.2) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(20px); border-radius: 24px; padding: 28px; box-shadow: 0 12px 40px rgba(249, 115, 22, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);">
+<td width="50%">
 
 <div align="center">
 
@@ -309,7 +262,7 @@ fn improve_workflow() {
 </div>
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.2) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(20px); border-radius: 24px; padding: 28px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.15);">
+<td width="50%">
 
 <div align="center">
 
@@ -339,9 +292,9 @@ public:
 </tr>
 </table>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 📊 `$ git log --career`
@@ -372,7 +325,7 @@ timeline
 
 <table>
 <tr>
-<td width="33%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 **🏢 AMAZON**  
 `Sr. Advisor • CTK Operations`
@@ -382,7 +335,7 @@ Critical payroll compliance for UK teams. Built internal tools to optimize timek
 **Impact:** Reduced manual processing time by 70%
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 **🎯 3SGROOMERS**  
 `Chief Product Officer`
@@ -392,7 +345,7 @@ Led XR SaaS vision. Integrated VR hardware with cloud services for immersive sof
 **Impact:** Launched MVP with 500+ users
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 **🚀 ENTREPRENEUR**  
 `Multiple Ventures`
@@ -405,9 +358,9 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 </tr>
 </table>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 📈 `$ /metrics/activity --realtime`
@@ -422,7 +375,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -433,7 +386,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 </div>
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -451,7 +404,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <table>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -462,7 +415,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 </div>
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -478,7 +431,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <br/>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(249, 115, 22, 0.1) 100%); backdrop-filter: blur(12px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.05);">
+<div align="center">
 
 <!-- CONTRIBUTION HEATMAP -->
 <img src="https://ghchart.rshah.org/3B82F6/etherealo9" alt="Contribution Graph" width="100%"/>
@@ -513,16 +466,16 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <br/>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.15) 0%, rgba(255, 215, 0, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(255, 215, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<div align="center">
 
 <!-- TROPHY SECTION -->
 <img src="https://github-profile-trophy.vercel.app/?username=etherealo9&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&border_color=3B82F6&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF" />
 
 </div>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 🎯 `$ echo $FOCUS_AREAS`
@@ -537,7 +490,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <table>
 <tr>
-<td width="33%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 <div align="center">
 
@@ -550,7 +503,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 Multi-agent orchestration for financial analysis
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 <div align="center">
 
@@ -563,7 +516,7 @@ Multi-agent orchestration for financial analysis
 Large-scale context window optimization (32K+ tokens)
 
 </td>
-<td width="33%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%">
 
 <div align="center">
 
@@ -578,7 +531,7 @@ Automated pitch deck evaluation & risk scoring
 </td>
 </tr>
 <tr>
-<td width="50%" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -591,7 +544,7 @@ Automated pitch deck evaluation & risk scoring
 WebXR experiments for browser-based VR
 
 </td>
-<td width="50%" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="50%">
 
 <div align="center">
 
@@ -607,9 +560,9 @@ BYOK architecture patterns for sensitive data
 </tr>
 </table>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 🎨 `$ cat /interests/hobbies.yaml`
@@ -618,7 +571,7 @@ BYOK architecture patterns for sensitive data
 
 <table>
 <tr>
-<td width="25%" align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="25%" align="center">
 
 ### 🎵 MUSIC
 🎸 Guitar  
@@ -626,7 +579,7 @@ BYOK architecture patterns for sensitive data
 🎵 Production
 
 </td>
-<td width="25%" align="center" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="25%" align="center">
 
 ### 📷 VISUAL
 📸 Photography  
@@ -634,7 +587,7 @@ BYOK architecture patterns for sensitive data
 🎬 Videography
 
 </td>
-<td width="25%" align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="25%" align="center">
 
 ### ⚡ SPORTS
 ⚽ Football  
@@ -642,7 +595,7 @@ BYOK architecture patterns for sensitive data
 🏃 Fitness
 
 </td>
-<td width="25%" align="center" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="25%" align="center">
 
 ### 🌍 NATURE
 🐾 Animals  
@@ -672,9 +625,9 @@ Nature:
 
 </div>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 💭 `$ philosophy.txt`
@@ -703,21 +656,21 @@ Nature:
 
 <table>
 <tr>
-<td width="33%" align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%" align="center">
 
 **🎓 BA ENGLISH**  
 University of Calcutta  
 `Language & Literature`
 
 </td>
-<td width="33%" align="center" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%" align="center">
 
 **💻 MCA (AI/ML)**  
 MAKAUT  
 `In Progress`
 
 </td>
-<td width="33%" align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 24px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td width="33%" align="center">
 
 **🚀 FELLOWSHIP**  
 Product Space  
@@ -737,9 +690,9 @@ Product Space
 
 </div>
 
-<!-- MODERN GRADIENT DIVIDER -->
-<div align="center" style="margin: 40px 0;">
-  <div style="width: 80%; max-width: 600px; height: 4px; background: linear-gradient(90deg, #3B82F6, #F97316); border-radius: 999px; opacity: 0.6;"></div>
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="---" />
 </div>
 
 ## 📡 `$ connect --collaborate`
@@ -773,10 +726,10 @@ $ echo "arghyadeep@bmatch.in" | mail
 <!-- VISITOR COUNT -->
 <table>
 <tr>
-<td align="center" style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(59, 130, 246, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td align="center">
 <img src="https://komarev.com/ghpvc/?username=etherealo9&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </td>
-<td align="center" style="background: linear-gradient(135deg, rgba(249, 115, 22, 0.15) 0%, rgba(249, 115, 22, 0.05) 100%); backdrop-filter: blur(16px); border-radius: 20px; padding: 20px; box-shadow: 0 8px 32px rgba(249, 115, 22, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+<td align="center">
 <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL+VISITORS&labelColor=000000&color=F97316&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fhits.dwyl.com%2Fethereal09%2Fethereal09.json" alt="Total Visitors"/>
 </td>
 </tr>
@@ -795,17 +748,5 @@ $ echo "arghyadeep@bmatch.in" | mail
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=CODE%20IS%20POETRY%20WRITTEN%20IN%20LOGIC&fontSize=30&fontAlign=50&fontAlignY=40&color=0:3B82F6,50:F97316,100:FFD700&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&desc=From%20a%20Literature%20graduate%20who%20learned%20to%20speak%20in%20types&descAlignY=60&descAlign=50" width="100%"/>
 
 <sub>**Last updated: 2025-11-18 | Built for the future 🚀**</sub>
-
-<br/>
-
-<!-- QUOTE SECTION -->
-<div style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(249, 115, 22, 0.15) 100%); backdrop-filter: blur(16px); border-radius: 24px; padding: 32px 40px; box-shadow: 0 12px 40px rgba(59, 130, 246, 0.25), 0 12px 40px rgba(249, 115, 22, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.15); border: 2px solid rgba(59, 130, 246, 0.3); max-width: 900px; margin: 0 auto;">
-  <p style="font-size: 24px; font-weight: 700; letter-spacing: -0.02em; background: linear-gradient(90deg, #3B82F6 0%, #FFFFFF 50%, #F97316 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 16px; text-align: center;">
-    "Where words meet code, magic happens."
-  </p>
-  <p style="font-size: 16px; font-weight: 600; color: rgba(255, 255, 255, 0.7); text-align: center; margin: 0;">
-    — Crafting products that matter, one commit at a time
-  </p>
-</div>
 
 </div>
