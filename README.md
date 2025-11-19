@@ -366,7 +366,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 🔥 **CONTRIBUTION STREAKS**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=etherealo9&theme=radical&hide_border=false&border=3B82F6&background=000000&stroke=3B82F6&ring=F97316&fire=3B82F6&currStreakLabel=F97316&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0&include_all_commits=true" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=etherealo9&theme=radical&hide_border=false&border=3B82F6&background=000000&stroke=3B82F6&ring=F97316&fire=3B82F6&currStreakLabel=F97316&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0&include_all_commits=true" />
 
 </div>
 
@@ -669,7 +669,7 @@ $ echo "arghyadeep@bmatch.in" | mail
 <img src="https://komarev.com/ghpvc/?username=etherealo9&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL+VISITORS&labelColor=000000&color=F97316&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fhits.dwyl.com%2Fethereal09%2Fethereal09.json" alt="Total Visitors"/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL+VISITORS&labelColor=000000&color=F97316&style=for-the-badge&query=%24.count&url=https%3A%2F%2Fhits.dwyl.com%2Fetherealo9%2Fetherealo9.json" alt="Total Visitors"/>
 </td>
 </tr>
 </table>
