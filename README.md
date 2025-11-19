@@ -341,67 +341,25 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=F97316&center=true&vCenter=true&width=500&lines=GITHUB+STATISTICS+%F0%9F%94%A5;LIVE+ACTIVITY+METRICS" alt="Metrics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=800&color=F97316&center=true&vCenter=true&width=500&lines=GITHUB+STATISTICS+%F0%9F%94%A5;LIVE+ACTIVITY+METRICS" alt="Metrics" />
+
+  <br/>
+
+  <!-- Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=true&bg_color=000000" />
+  <img src="https://streak-stats.demolab.com/?user=etherealo9&theme=radical&hide_border=true&bg_color=000000" />
+  
+  <br/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=true&bg_color=000000" />
+  
+  <br/>
+  
+  <!-- Yearly Contribution Graph -->
+  <img src="https://ghchart.rshah.org/3B82F6/etherealo9" alt="etherealo9's Github chart" />
 
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 📊 **GITHUB STATS**
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 🔥 **CONTRIBUTION STREAKS**
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=etherealo9&theme=radical&hide_border=false&border=3B82F6&background=000000&stroke=3B82F6&ring=F97316&fire=3B82F6&currStreakLabel=F97316&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=0&include_all_commits=true" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-<div align="center">
-
-### 💻 **TOP LANGUAGES**
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=false&border_color=F97316&bg_color=000000&title_color=F97316&text_color=FFFFFF&border_radius=0" />
-
-</div>
-
-</td>
-<td width="50%">
-
-<div align="center">
-
-### 📈 **CONTRIBUTION GRAPH**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&custom_title=Activity&border_radius=0&include_all_commits=true&from=2025-01-01" />
-
-</div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
