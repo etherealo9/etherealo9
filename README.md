@@ -355,7 +355,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 📊 **GITHUB STATS**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 </div>
 
