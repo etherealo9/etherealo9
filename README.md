@@ -355,7 +355,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 📊 **GITHUB STATS**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0&count_private=true&include_all_commits=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=etherealo9&show_icons=true&theme=radical&hide_border=false&border_color=3B82F6&bg_color=000000&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&border_radius=0" />
 
 </div>
 
@@ -384,7 +384,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 💻 **TOP LANGUAGES**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=false&border_color=F97316&bg_color=000000&title_color=F97316&text_color=FFFFFF&border_radius=0&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etherealo9&layout=compact&theme=radical&hide_border=false&border_color=F97316&bg_color=000000&title_color=F97316&text_color=FFFFFF&border_radius=0" />
 
 </div>
 
@@ -395,7 +395,7 @@ Bmatch.in (VC matching), Mindsync (AI journaling), Webedge (growth agency).
 
 ### 📈 **CONTRIBUTION GRAPH**
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&custom_title=Activity&border_radius=0&include_all_commits=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=etherealo9&theme=high-contrast&hide_border=false&border_color=3B82F6&bg_color=000000&color=3B82F6&line=F97316&point=FFFFFF&area=true&custom_title=Activity&border_radius=0&include_all_commits=true&from=2025-01-01" />
 
 </div>
 
